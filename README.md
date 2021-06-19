@@ -29,7 +29,7 @@ After you fork this repo, clone your fork to your local system. You can use GitH
 
 ![copy](static/copy-this.jpg)
 
-Click `Ctrl + Shift + P` and type clone, pick git clone, then paste your fork address.
+In VScode, click `Ctrl + Shift + P` and type clone, pick git clone, then paste your forked git address.
 
 ![clone](static/clone.jpg)
 
