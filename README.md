@@ -105,3 +105,4 @@ You can push directly to dev if you think it's appropriate, but please make new 
 Contributor listed here in alphabetical order:
 
 1. @zulvkr
+2. @projectrevolution
