@@ -94,7 +94,7 @@ You can contribute further by repeating Step 3 to Step 6. Sometimes you will fin
 
 ## Contribute Easier and Faster
 
-Forking makes git workflow a bit cumbersome but safer, you could join this team to get access to the dev branch directly. Please be careful on pushing to dev and main branch. It's better to make your own branch instead for safety purpose.
+Forking makes git workflow a bit cumbersome but safer, you could join this team to get access to push main repo directly. Please be careful on pushing to dev and main branch. It's better to make your own branch instead for safety purpose.
 
 [Access to this Repo team](https://github.com/orgs/JS-Bootcamp-Study-Group/teams/access-to-discord-qa-bot-repo)
 
