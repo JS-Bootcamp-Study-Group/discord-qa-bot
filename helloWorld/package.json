@@ -1,0 +1,24 @@
+{
+  "name": "discord-qa-bot",
+  "version": "1.0.0",
+  "description": "A discord QA bot intended for learning purpose of JS Bootcamp study group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaterpillarEffect/discord-qa-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaterpillarEffect/discord-qa-bot/issues"
+  },
+  "homepage": "https://github.com/CaterpillarEffect/discord-qa-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
